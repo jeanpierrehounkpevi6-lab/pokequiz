@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Acceuil</title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous"> 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <script src="js/scripts.js"></script>
+</head>
+
+<body >
+    
+    <div class="container my-5">
+        
+        <div class="mb-5 p-3 bg-dark-subtle rounded">
+            <div class="bg-black rounded w-50 mx-auto ">
+            <h3 class="mb-4 pb-2 border-bottom text-center text-white ">Commencer quiz random</h3>
+            </div>
+            
+            <div id="block1" class="py-4">
+            <div  class="card text-center mx-auto shadow" style="width: 20rem;">
+                <div class="card-body py-4">
+                    <div class="card-title">
+                        <h4 class="text-primary"> Aleatoire</h4>
+                        <p ><i class="bi bi-shuffle me-2"></i>Testez vos connaissances sur tous les thèmes Pokémon !</p>
+                    </div>
+                    <a href="jeu.html?cat=start" class=" btn btn-primary px-4" id="theme">Let's GO</a>
+                </div>
+
+                <div class="card-footer p-0">
+                    <img src="img/pika.jpg" class="w-100 rounded-bottom" alt="img" style="height: 180px; object-fit: cover;">
+
+                </div>
+                
+                
+            </div>
+            </div>
+        </div>
+
+        <div class="mt-5 p-3 bg-dark-subtle rounded">
+            <div class="bg-black rounded w-50 mx-auto ">
+                <h3 class=" mb-4 pb-2 text-center text-white">Commencer quiz sur une thematique</h3>
+            </div>
+            <hr style=" border: 1px solid black">
+            <div id="block2" class="d-flex flex-wrap justify-content-around py-4">
+                
+                    
+                <div class="card text-center m-2 shadow" style="width: 20rem;">
+                    <div class="card-body">
+                        <div class="card-title">
+                            <h4 > Types/Attaques</h4>
+                            <p ><i class="bi bi-fire me-2"></i>Questions sur les types et les attaques Pokémon</p>
+                        </div>
+                        <a href="jeu.html?cat=Types/Attaques" class=" btn btn-primary" id="theme">Let's GO</a>
+                    </div>  
+                    <div class="card-footer p-0">
+                    <img src="img/poke13.jpg" class="w-100 rounded-bottom" alt="img" style="height: 180px; object-fit: cover;">
+                    </div>  
+                </div>
+
+                <div class="card text-center m-2 shadow" style="width: 20rem;">
+                    <div class="card-body">
+                        <div class="card-title">
+                            <h4 > Pokémon/Régions</h4>
+                            <p ><i class="bi bi-map me-2"></i>Questions sur les Pokémon et les régions</p>
+                        </div>
+                        <a href="jeu.html?cat=Pokémon/Régions" class=" btn btn-primary" id="theme">Let's GO</a>
+                    </div> 
+                    <div class="card-footer p-0">
+                    <img src="img/poke5.png" class="w-100 rounded-bottom" alt="img" style="height: 180px; object-fit: cover;">
+                    </div>     
+                </div>
+
+                <div class="card text-center m-2 shadow" style="width: 20rem;">
+                    <div class="card-body">
+                        <div class="card-title">
+                            <h4 >Evolutions/Capacités</h4>
+                            <p ><i class="bi bi-graph-up-arrow me-2"></i>Questions sur les Evolutions et les Capacités</p>
+                        </div>
+                        <a href="jeu.html?cat=Evolutions/Capacités" class=" btn btn-primary" id="theme">Let's GO</a>
+                    </div>  
+                    <div class="card-footer p-0">
+                    <img src="img/poke8.jpg" class="w-100 rounded-bottom" alt="img" style="height: 180px; object-fit: cover;">
+                    </div>    
+                </div>
+
+                <div class="card text-center m-2 shadow" style="width: 20rem;">
+                    <div class="card-body">
+                        <div class="card-title">
+                            <h4 >Légendaires/Univers</h4>
+                            <p ><i class="bi bi-stars me-2"></i>Questions sur les Légendaires et les Univers</p>
+                        </div>
+                        <a href="jeu.html?cat=Légendaires/Univers" class=" btn btn-primary" id="theme">Let's GO</a>
+                    </div>  
+                    <div class="card-footer p-0">
+                    <img src="img/poke4.jpg" class="w-100 rounded-bottom" alt="img" style="height: 180px; object-fit: cover;">
+                    </div>
+
+                </div>
+
+        
+            </div>
+        </div>
+
+        <div  class="mt-5 p-3 bg-dark-subtle rounded">
+            <div class="bg-black rounded w-75 mx-auto ">
+            <h3 class="mb-4 pb-2 border-bottom text-center text-white ">Commencer quiz avec des lots de question</h3>
+            </div>
+            <div id="block3" class="d-flex flex-wrap justify-content-around py-4">
+
+                <div class="card text-center m-2  shadow" style="width: 20rem;">
+                    <div class="card-body py-4">
+                        <div class="card-title">
+                            <h4 class="text-primary"> Lot1</h4>
+                            <p ><i class="bi bi-mortarboard me-2"></i>Amateur</p>
+                        </div>
+                        <a href="jeu.html?lot=2" class=" btn btn-primary px-4" id="theme">Let's GO</a>
+                    </div> 
+                    <div class="card-footer p-0">
+                    <img src="img/poke6.jpg" class="w-100 rounded-bottom" alt="img" style="height: 180px; object-fit: cover;">
+                    </div>   
+                </div>
+
+                <div class="card text-center m-2 shadow" style="width: 20rem;">
+                    <div class="card-body py-4">
+                        <div class="card-title">
+                            <h4 class="text-primary"> Lot2</h4>
+                            <p ><i class="bi bi-trophy me-2"></i>Haut Niveau</p>
+                        </div>
+                        <a href="jeu.html?lot=3" class=" btn btn-primary px-4" id="theme">Let's GO</a>
+                    </div> 
+                    <div class="card-footer p-0">
+                    <img src="img/poke12.jpg" class="w-100 rounded-bottom" alt="img" style="height: 180px; object-fit: cover;">
+                    </div>  
+
+                </div>
+
+                <div class="card text-center m-2 shadow" style="width: 20rem;">
+                    <div class="card-body py-4">
+                        <div class="card-title">
+                            <h4 class="text-primary"> Lot3</h4>
+                            <p ><i class="bi bi-award me-2"></i>Professionel</p>
+                        </div>
+                        <a href="jeu.html?lot=4" class=" btn btn-primary px-4" id="theme">Let's GO</a>
+                    </div>   
+                    <div class="card-footer p-0">
+                    <img src="img/poke14.jpg" class="w-100 rounded-bottom" alt="img" style="height: 180px; object-fit: cover;">
+                    </div>  
+ 
+                </div>
+
+            </div>
+
+        </div>
+
+        <div  class="mt-5 p-3 bg-dark-subtle rounded">
+            <div class="d-flex justify-content-around">
+                <a href="apprendre.html" class=" btn btn-warning px-4" id="theme"><i class="bi bi-book me-2"></i>Mode Aprentissage</a>
+                <a href="statistique.html" class=" btn btn-dark px-4" id="theme"><i class="bi bi-bar-chart-line me-2"></i>Mes Statistiques</a>
+            </div>
+            
+        </div>
+
+
+    </div>
+     
+    
+
+
+   
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script> 
+</body>
+</html>    

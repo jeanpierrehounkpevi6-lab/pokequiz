@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <question>
+        <categorie>Pokémon/Régions</categorie>
+        <id>1</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/155.png</image_large>
+        <contenu>Quel est le Pokémon de départ de type Feu de la région de Johto ?</contenu>
+        <response1>Germignon</response1>
+        <response2>Kaiminus</response2>
+        <response3>Héricendre</response3>
+        <response4>Tiplouf</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <reponsetext>Héricendre</reponsetext>
+        <point>2</point> 
+    </question>
+    
+    <question>
+        <categorie>Types/Attaques</categorie>
+        <id>2</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png</image_large>
+        <contenu>Le type Sol est super efficace contre le type Électrik.</contenu>
+        <response1>Vrai</response1>
+        <response2>Faux</response2>
+        <response3>Je ne sais pas</response3>
+        <response4>N/A</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <reponsetext>Vrai</reponsetext>
+        <point>3</point> 
+    </question>
+    
+    <question>
+        <categorie>Evolutions/Capacités</categorie>
+        <id>3</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/290.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/290.png</image_large>
+        <contenu>Quel Pokémon évolue en Ninjask ET en Munja simultanément ?</contenu>
+        <response1>Chenipan</response1>
+        <response2>Arakdo</response2>
+        <response3>Nincada</response3>
+        <response4>Chinchidou</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <reponsetext>Nincada</reponsetext>
+        <point>4</point> 
+    </question>
+    
+    <question>
+        <categorie>Légendaires/Univers</categorie>
+        <id>4</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/250.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/250.png</image_large>
+        <contenu>Lequel de ces Pokémon Légendaires n'est PAS un oiseau légendaire de Kanto ?</contenu>
+        <response1>Artikodin</response1>
+        <response2>Électhor</response2>
+        <response3>Sulfura</response3>
+        <response4>Ho-Oh</response4>
+        <bonne_reponse>4</bonne_reponse>
+        <reponsetext>Ho-Oh</reponsetext>
+        <point>3</point> 
+    </question>
+    
+    <question>
+        <categorie>Pokémon/Régions</categorie>
+        <id>5</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/494.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/494.png</image_large>
+        <contenu>Quelle est la région introduite dans les jeux Pokémon version Noire et Blanche ?</contenu>
+        <response1>Sinnoh</response1>
+        <response2>Hoenn</response2>
+        <response3>Kalos</response3>
+        <response4>Unys</response4>
+        <bonne_reponse>4</bonne_reponse>
+        <reponsetext>Unys</reponsetext>
+        <point>2</point> 
+    </question>
+    
+    <question>
+        <categorie>Pokémon/Régions</categorie>
+        <id>6</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/445.png</image_large>
+        <contenu>La Maître de Ligue Cynthia est originaire de la région de Galar.</contenu>
+        <response1>Vrai</response1>
+        <response2>Faux</response2>
+        <response3>Je ne sais pas</response3>
+        <response4>N/A</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <reponsetext>Faux</reponsetext>
+        <point>3</point> 
+    </question>
+    
+    <question>
+        <categorie>Types/Attaques</categorie>
+        <id>7</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png</image_large>
+        <contenu>Quelle est l'attaque de type Électrik ayant une précision de 70 ?</contenu>
+        <response1>Tonnerre</response1>
+        <response2>Fatal-Foudre</response2>
+        <response3>Éclair</response3>
+        <response4>Cage-Éclair</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <reponsetext>Fatal-Foudre</reponsetext>
+        <point>4</point> 
+    </question>
+
+    <question>
+        <categorie>Evolutions/Capacités</categorie>
+        <id>8</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/194.png</image_large>
+        <contenu>Quelle capacité spéciale permet d'ignorer les changements de statistiques de la cible ?</contenu>
+        <response1>Garde Magik</response1>
+        <response2>Simple</response2>
+        <response3>Inconscient</response3>
+        <response4>Adaptabilité</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <reponsetext>Inconscient</reponsetext>
+        <point>4</point> 
+    </question>
+
+    <question>
+        <categorie>Evolutions/Capacités</categorie>
+        <id>9</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png</image_large>
+        <contenu>De combien de formes différentes Évoli pouvait-il évoluer dans la première génération ?</contenu>
+        <response1>2</response1>
+        <response2>3</response2>
+        <response3>5</response3>
+        <response4>8</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <reponsetext>3</reponsetext>
+        <point>2</point> 
+    </question>
+
+    <question>
+        <categorie>Types/Attaques</categorie>
+        <id>10</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/175.png</image_large>
+        <contenu>L'objet Multi Exp donne de l'expérience à tous les Pokémon de l'équipe, même ceux qui n'ont pas combattu.</contenu>
+        <response1>Vrai</response1>
+        <response2>Faux</response2>
+        <response3>Je ne sais pas</response3>
+        <response4>N/A</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <reponsetext>Vrai</reponsetext>
+        <point>2</point> 
+    </question>
+
+    <question>
+        <categorie>Types/Attaques</categorie>
+        <id>11</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/148.png</image_large>
+        <contenu>Le type Dragon est faible contre le type Glace.</contenu>
+        <response1>Vrai</response1>
+        <response2>Faux</response2>
+        <response3>Je ne sais pas</response3>
+        <response4>N/A</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <reponsetext>Vrai</reponsetext>
+        <point>3</point> 
+    </question>
+
+    <question>
+        <categorie>Pokémon/Régions</categorie>
+        <id>12</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/053.png</image_large>
+        <contenu>Quel est le nom du chef de la Team Rocket ?</contenu>
+        <response1>N</response1>
+        <response2>Ghetis</response2>
+        <response3>Giovanni</response3>
+        <response4>Lysandre</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <reponsetext>Giovanni</reponsetext>
+        <point>2</point> 
+    </question>
+
+    <question>
+        <categorie>Légendaires/Univers</categorie>
+        <id>13</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png</image_large>
+        <contenu>Le Pokémon Légendaire Mewtwo a été créé par la Team Plasma.</contenu>
+        <response1>Vrai</response1>
+        <response2>Faux</response2>
+        <response3>Je ne sais pas</response3>
+        <response4>N/A</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <reponsetext>Faux</reponsetext>
+        <point>4</point> 
+    </question>
+
+    <question>
+        <categorie>Légendaires/Univers</categorie>
+        <id>14</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/377.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/377.png</image_large>
+        <contenu>Combien de "Regi" (Golems légendaires) existe-t-il initialement dans la région de Hoenn ?</contenu>
+        <response1>3</response1>
+        <response2>4</response2>
+        <response3>5</response3>
+        <response4>6</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <reponsetext>3</reponsetext>
+        <point>3</point> 
+    </question>
+
+    <question>
+        <categorie>Types/Attaques</categorie>
+        <id>15</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/161.png</image_large>
+        <contenu>Quelle attaque a une précision de 100% et frappe toujours en premier (priorité +1) ?</contenu>
+        <response1>Vitesse Extrême</response1>
+        <response2>Pistolet à O</response2>
+        <response3>Vive-Attaque</response3>
+        <response4>Coup Vitesse</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <reponsetext>Vive-Attaque</reponsetext>
+        <point>4</point> 
+    </question>
+
+    <question>
+        <categorie>Pokémon/Régions</categorie>
+        <id>16</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/791.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/791.png</image_large>
+        <contenu>Dans quelle région se déroule le "Défi des Îles" (Island Challenge) ?</contenu>
+        <response1>Kalos</response1>
+        <response2>Alola</response2>
+        <response3>Galar</response3>
+        <response4>Paldea</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <reponsetext>Alola</reponsetext>
+        <point>3</point> 
+    </question>
+
+    <question>
+        <categorie>Evolutions/Capacités</categorie>
+        <id>17</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png</image_large>
+        <contenu>Quel Pokémon n'évolue PAS en utilisant une Pierre Foudre ?</contenu>
+        <response1>Pikachu</response1>
+        <response2>Évoli</response2>
+        <response3>Magneton</response3>
+        <response4>Caninos</response4>
+        <bonne_reponse>4</bonne_reponse>
+        <reponsetext>Caninos</reponsetext>
+        <point>3</point> 
+    </question>
+
+    <question>
+        <categorie>Types/Attaques</categorie>
+        <id>18</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/092.png</image_large>
+        <contenu>Quel type est complètement immunisé aux attaques de type Spectre ?</contenu>
+        <response1>Acier</response1>
+        <response2>Ténèbres</response2>
+        <response3>Psy</response3>
+        <response4>Normal</response4>
+        <bonne_reponse>4</bonne_reponse>
+        <reponsetext>Normal</reponsetext>
+        <point>4</point> 
+    </question>
+
+    <question>
+        <categorie>Légendaires/Univers</categorie>
+        <id>19</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/493.png</image_large>
+        <contenu>Quel Pokémon est considéré comme le créateur de l'univers Pokémon ?</contenu>
+        <response1>Dialga</response1>
+        <response2>Mew</response2>
+        <response3>Arceus</response3>
+        <response4>Giratina</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <reponsetext>Arceus</reponsetext>
+        <point>3</point> 
+    </question>
+
+    <question>
+        <categorie>Pokémon/Régions</categorie>
+        <id>20</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/716.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/716.png</image_large>
+        <contenu>La région de Kalos (Pokémon X et Y) est basée sur quel pays réel ?</contenu>
+        <response1>Italie</response1>
+        <response2>Royaume-Uni</response2>
+        <response3>France</response3>
+        <response4>Espagne</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <reponsetext>France</reponsetext>
+        <point>2</point> 
+    </question>
+
+    <question>
+        <categorie>Types/Attaques</categorie>
+        <id>21</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png</image_large>
+        <contenu>L'attaque "Toxic" inflige un empoisonnement qui s'aggrave à chaque tour.</contenu>
+        <response1>Vrai</response1>
+        <response2>Faux</response2>
+        <response3>Je ne sais pas</response3>
+        <response4>N/A</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <reponsetext>Vrai</reponsetext>
+        <point>3</point> 
+    </question>
+
+    <question>
+        <categorie>Evolutions/Capacités</categorie>
+        <id>22</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/199.png</image_large>
+        <contenu>Tenir une Roche Royale et être échangé fait évoluer Ramoloss en...</contenu>
+        <response1>Flagadoss</response1>
+        <response2>Roigada (Slowking)</response2>
+        <response3>Têtarte</response3>
+        <response4>Tarpaud</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <reponsetext>Roigada (Slowking)</reponsetext>
+        <point>3</point> 
+    </question>
+
+    <question>
+        <categorie>Légendaires/Univers</categorie>
+        <id>23</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/382.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/382.png</image_large>
+        <contenu>Quel Pokémon légendaire est le maître des océans et le rival de Groudon ?</contenu>
+        <response1>Lugia</response1>
+        <response2>Palkia</response2>
+        <response3>Kyogre</response3>
+        <response4>Manaphy</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <reponsetext>Kyogre</reponsetext>
+        <point>2</point> 
+    </question>
+
+    <question>
+        <categorie>Pokémon/Régions</categorie>
+        <id>24</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png</image_large>
+        <contenu>Quel est le nom du Professeur Pokémon de la région de Kanto ?</contenu>
+        <response1>Professeur Sorbier</response1>
+        <response2>Professeur Chen (Oak)</response2>
+        <response3>Professeur Orme (Elm)</response3>
+        <response4>Professeur Seko</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <reponsetext>Professeur Chen (Oak)</reponsetext>
+        <point>2</point> 
+    </question>
+
+    <question>
+        <categorie>Types/Attaques</categorie>
+        <id>25</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png</image_large>
+        <contenu>L'attaque "Piège de Roc" (Stealth Rock) est de type...</contenu>
+        <response1>Sol</response1>
+        <response2>Normal</response2>
+        <response3>Acier</response3>
+        <response4>Roche</response4>
+        <bonne_reponse>4</bonne_reponse>
+        <reponsetext>Roche</reponsetext>
+        <point>3</point> 
+    </question>
+
+    <question>
+        <categorie>Evolutions/Capacités</categorie>
+        <id>26</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png</image_large>
+        <contenu>Quelle pierre est utilisée pour faire évoluer Goupix (Kanto) en Feunard ?</contenu>
+        <response1>Pierre Feu</response1>
+        <response2>Pierre Soleil</response2>
+        <response3>Pierre Lune</response3>
+        <response4>Pierre Éclat</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <reponsetext>Pierre Feu</reponsetext>
+        <point>2</point> 
+    </question>
+
+    <question>
+        <categorie>Légendaires/Univers</categorie>
+        <id>27</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/644.png</image_large>
+        <contenu>Zekrom et Reshiram sont le duo légendaire de quelle région ?</contenu>
+        <response1>Hoenn</response1>
+        <response2>Sinnoh</response2>
+        <response3>Unys</response3>
+        <response4>Kalos</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <reponsetext>Unys</reponsetext>
+        <point>3</point> 
+    </question>
+
+    <question>
+        <categorie>Types/Attaques</categorie>
+        <id>28</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png</image_large>
+        <contenu>L'attaque "Surf" (CS03) est de type Eau.</contenu>
+        <response1>Vrai</response1>
+        <response2>Faux</response2>
+        <response3>Je ne sais pas</response3>
+        <response4>N/A</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <reponsetext>Vrai</reponsetext>
+        <point>2</point> 
+    </question>
+
+    <question>
+        <categorie>Evolutions/Capacités</categorie>
+        <id>29</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/196.png</image_large>
+        <contenu>Quelle est l'évolution de type Psy d'Évoli ?</contenu>
+        <response1>Voltali</response1>
+        <response2>Noctali</response2>
+        <response3>Mentali</response3>
+        <response4>Nymphali</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <reponsetext>Mentali</reponsetext>
+        <point>2</point> 
+    </question>
+
+    <question>
+        <categorie>Pokémon/Régions</categorie>
+        <id>30</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/252.png</image_large>
+        <contenu>Le Professeur Seko (Birch) est le professeur de la région de Hoenn.</contenu>
+        <response1>Vrai</response1>
+        <response2>Faux</response2>
+        <response3>Je ne sais pas</response3>
+        <response4>N/A</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <reponsetext>Vrai</reponsetext>
+        <point>2</point> 
+    </question>
+
+    <question>
+        <categorie>Légendaires/Univers</categorie>
+        <id>31</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/249.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/249.png</image_large>
+        <contenu>Lugia est le gardien des mers et le Pokémon emblématique de Pokémon Argent (Silver).</contenu>
+        <response1>Vrai</response1>
+        <response2>Faux</response2>
+        <response3>Je ne sais pas</response3>
+        <response4>N/A</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <reponsetext>Vrai</reponsetext>
+        <point>2</point> 
+    </question>
+
+    <question>
+        <categorie>Types/Attaques</categorie>
+        <id>32</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/700.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/700.png</image_large>
+        <contenu>Le type Fée a été introduit dans quelle génération ?</contenu>
+        <response1>Génération 4 (Sinnoh)</response1>
+        <response2>Génération 5 (Unys)</response2>
+        <response3>Génération 6 (Kalos)</response3>
+        <response4>Génération 7 (Alola)</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <reponsetext>Génération 6 (Kalos)</reponsetext>
+        <point>3</point> 
+    </question>
+
+    <question>
+        <categorie>Evolutions/Capacités</categorie>
+        <id>33</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png</image_large>
+        <contenu>Comment Kadabra évolue-t-il en Alakazam ?</contenu>
+        <response1>En montant au niveau 36</response1>
+        <response2>Avec une Pierre Lune</response2>
+        <response3>En étant échangé</response3>
+        <response4>En apprenant "Psyko"</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <reponsetext>En étant échangé</reponsetext>
+        <point>2</point> 
+    </question>
+
+    <question>
+        <categorie>Pokémon/Régions</categorie>
+        <id>34</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/906.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/906.png</image_large>
+        <contenu>Quelle est la région principale des jeux Pokémon Écarlate et Violet ?</contenu>
+        <response1>Galar</response1>
+        <response2>Paldea</response2>
+        <response3>Hisui</response3>
+        <response4>Alola</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <reponsetext>Paldea</reponsetext>
+        <point>2</point> 
+    </question>
+
+    <question>
+        <categorie>Légendaires/Univers</categorie>
+        <id>35</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/487.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/487.png</image_large>
+        <contenu>Quel Pokémon légendaire règne sur le Monde Distorsion ?</contenu>
+        <response1>Dialga</response1>
+        <response2>Palkia</response2>
+        <response3>Giratina</response3>
+        <response4>Arceus</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <reponsetext>Giratina</reponsetext>
+        <point>3</point> 
+    </question>
+
+    <question>
+        <categorie>Types/Attaques</categorie>
+        <id>36</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png</image_large>
+        <contenu>L'attaque "Séisme" (Earthquake) est de type Sol.</contenu>
+        <response1>Vrai</response1>
+        <response2>Faux</response2>
+        <response3>Je ne sais pas</response3>
+        <response4>N/A</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <reponsetext>Vrai</reponsetext>
+        <point>2</point> 
+    </question>
+
+    <question>
+        <categorie>Evolutions/Capacités</categorie>
+        <id>37</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/358.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/358.png</image_large>
+        <contenu>La capacité spéciale "Lévitation" (Levitate) rend un Pokémon immunisé au type...</contenu>
+        <response1>Vol</response1>
+        <response2>Sol</response2>
+        <response3>Électrik</response3>
+        <response4>Roche</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <reponsetext>Sol</reponsetext>
+        <point>3</point> 
+    </question>
+
+    <question>
+        <categorie>Pokémon/Régions</categorie>
+        <id>38</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/888.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/888.png</image_large>
+        <contenu>La région de Galar (Pokémon Épée et Bouclier) est basée sur quel pays réel ?</contenu>
+        <response1>France</response1>
+        <response2>Espagne</response2>
+        <response3>Royaume-Uni</response3>
+        <response4>Allemagne</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <reponsetext>Royaume-Uni</reponsetext>
+        <point>3</point> 
+    </question>
+
+    <question>
+        <categorie>Légendaires/Univers</categorie>
+        <id>39</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png</image_large>
+        <contenu>Quel Pokémon fabuleux contient l'ADN de tous les Pokémon ?</contenu>
+        <response1>Mew</response1>
+        <response2>Mewtwo</response2>
+        <response3>Arceus</response3>
+        <response4>Jirachi</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <reponsetext>Mew</reponsetext>
+        <point>3</point> 
+    </question>
+
+    <question>
+        <categorie>Types/Attaques</categorie>
+        <id>40</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png</image_large>
+        <contenu>L'attaque "Blizzard" a 100% de précision sous la tempête de grêle (ou neige).</contenu>
+        <response1>Vrai</response1>
+        <response2>Faux</response2>
+        <response3>Je ne sais pas</response3>
+        <response4>N/A</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <reponsetext>Vrai</reponsetext>
+        <point>4</point> 
+    </question>
+
+    <question>
+        <categorie>Evolutions/Capacités</categorie>
+        <id>41</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png</image_large>
+        <contenu>À quel niveau Magicarpe (Magikarp) évolue-t-il en Léviator (Gyarados) ?</contenu>
+        <response1>Niveau 15</response1>
+        <response2>Niveau 20</response2>
+        <response3>Niveau 25</response3>
+        <response4>Niveau 30</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <reponsetext>Niveau 20</reponsetext>
+        <point>2</point> 
+    </question>
+
+    <question>
+        <categorie>Pokémon/Régions</categorie>
+        <id>42</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/483.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/483.png</image_large>
+        <contenu>Le Mont Couronné (Mt. Coronet) est une montagne centrale de quelle région ?</contenu>
+        <response1>Kanto</response1>
+        <response2>Hoenn</response2>
+        <response3>Sinnoh</response3>
+        <response4>Unys</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <reponsetext>Sinnoh</reponsetext>
+        <point>3</point> 
+    </question>
+
+    <question>
+        <categorie>Légendaires/Univers</categorie>
+        <id>43</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/251.png</image_large>
+        <contenu>Quel Pokémon fabuleux est connu comme le "Gardien de la Forêt" et peut voyager dans le temps ?</contenu>
+        <response1>Jirachi</response1>
+        <response2>Manaphy</response2>
+        <response3>Shaymin</response3>
+        <response4>Celebi</response4>
+        <bonne_reponse>4</bonne_reponse>
+        <reponsetext>Celebi</reponsetext>
+        <point>4</point> 
+    </question>
+
+    <question>
+        <categorie>Types/Attaques</categorie>
+        <id>44</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/197.png</image_large>
+        <contenu>Le type Ténèbres est super efficace contre le type Psy.</contenu>
+        <response1>Vrai</response1>
+        <response2>Faux</response2>
+        <response3>Je ne sais pas</response3>
+        <response4>N/A</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <reponsetext>Vrai</reponsetext>
+        <point>3</point> 
+    </question>
+
+    <question>
+        <categorie>Evolutions/Capacités</categorie>
+        <id>45</id>
+        <image>httpss://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/236.png</image_large>
+        <contenu>Debugant (Tyrogue) n'évolue PAS en...</contenu>
+        <response1>Kapoera (Hitmontop)</response1>
+        <response2>Kicklee (Hitmonlee)</response2>
+        <response3>Tygnon (Hitmonchan)</response3>
+        <response4>Machoc (Machop)</response4>
+        <bonne_reponse>4</bonne_reponse>
+        <reponsetext>Machoc (Machop)</reponsetext>
+        <point>3</point> 
+    </question>
+
+    <question>
+        <categorie>Pokémon/Régions</categorie>
+        <id>46</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/064.png</image_large>
+        <contenu>Dans la région de Kanto, quelle ville héberge l'arène de type Psy de Morgane (Sabrina) ?</contenu>
+        <response1>Céladopole</response1>
+        <response2>Safrania</response2>
+        <response3>Parmanie</response3>
+        <response4>Azuria</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <reponsetext>Safrania</reponsetext>
+        <point>3</point> 
+    </question>
+
+    <question>
+        <categorie>Légendaires/Univers</categorie>
+        <id>47</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/380.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/380.png</image_large>
+        <contenu>Latios et Latias forment le "Duo Éon" de la région de Hoenn.</contenu>
+        <response1>Vrai</response1>
+        <response2>Faux</response2>
+        <response3>Je ne sais pas</response3>
+        <response4>N/A</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <reponsetext>Vrai</reponsetext>
+        <point>3</point> 
+    </question>
+
+    <question>
+        <categorie>Types/Attaques</categorie>
+        <id>48</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/351.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/351.png</image_large>
+        <contenu>Quelle capacité spéciale modifie le type du Pokémon en fonction de la météo ?</contenu>
+        <response1>Météo</response1>
+        <response2>Peau Sèche</response2>
+        <response3>Ciel Gris</response3>
+        <response4>Glissade</response4>
+        <bonne_reponse>1</bonne_reponse>
+        <reponsetext>Météo</reponsetext>
+        <point>4</point> 
+    </question>
+
+    <question>
+        <categorie>Evolutions/Capacités</categorie>
+        <id>49</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/350.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/350.png</image_large>
+        <contenu>Comment Barpau (Feebas) évolue-t-il en Milobellus (Milotic) ?</contenu>
+        <response1>Niveau 30</response1>
+        <response2>Avec une Pierre Eau</response2>
+        <response3>En montant de niveau avec une Beauté max</response3>
+        <response4>En étant échangé</response4>
+        <bonne_reponse>3</bonne_reponse>
+        <reponsetext>En montant de niveau avec une Beauté max</reponsetext>
+        <point>4</point> 
+    </question>
+
+    <question>
+        <categorie>Pokémon/Régions</categorie>
+        <id>50</id>
+        <image>https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png</image>
+        <image_large>https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png</image_large>
+        <contenu>Combien de badges d'arène doit-on collectionner dans la région de Kanto ?</contenu>
+        <response1>6</response1>
+        <response2>8</response2>
+        <response3>10</response3>
+        <response4>12</response4>
+        <bonne_reponse>2</bonne_reponse>
+        <reponsetext>8</reponsetext>
+        <point>2</point> 
+    </question>
+
+    <thematiques>
+        <nom>Pokémon/Régions</nom>
+        <nom>Types/Attaques</nom>
+        <nom>Evolutions/Capacités</nom>
+        <nom>Légendaires/Univers</nom>
+    </thematiques>
+
+</data>

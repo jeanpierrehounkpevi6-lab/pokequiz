@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Apprendre!</title>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous"> 
+    
+</head>
+
+<body onload=loadXMLDoc()>
+    
+     <!--<button type="button" onclick="loadXMLDoc()">My book collection</button> -->
+    <div class="container pt-3 ">
+        <div  class="container p-3 mb-4 bg-dark-subtle  rounded shadow">
+            <div class="row justify-content-between">
+
+                <div class="col-3 mb-3 ">
+                    <div class="input-group ">
+                        <span class="input-group-text" id="visible-addon">🔍</span>
+                        <input type="text" id="search-input" class="form-control bg-danger-subtle" onkeyup="rechercherData()" placeholder="Tapez un mot-clé (ex: feu ou ID)">
+                    </div>
+                </div>
+
+
+
+                <div class="container col-9 ">
+                <div class="row justify-content-between">
+                    
+                        <select id="thematique" class=" col-4 form-select-sm bg-primary-subtle" aria-label="Small select example" >
+                            <option selected>Selectionner votre thématique</option>
+                            <option value="Total">Toutes les question</option>
+                            <option value="Pokémon/Régions">Pokémon/Régions</option>
+                            <option value="Types/Attaques">Types/Attaques</option>
+                            <option value="Evolutions/Capacités">Evolutions/Capacités</option>
+                            <option value="Légendaires/Univers">Légendaires/Univers</option>
+                        </select>
+
+                        <select id="CritTRI" class=" col-3 form-select-sm bg-warning-subtle" aria-label="Small select example" >
+                            <option selected>Critere de Tri</option>
+                            <option value="dif">Difficulté</option>
+                            <option value="lexi">Lexicographique</option>
+                            
+                        </select>
+                        
+                        <input type="button" onclick="filtrerData()" value="Filtrer" class="col-2 btn btn-danger "/>
+                        <input type="button" onclick="sortData()" value="Trier" class="col-2 btn btn-success "/>
+                        
+                </div>
+                    
+                </div>
+                </div>
+            </div> 
+        </div>
+        <div class="container p-1 ">
+            <table id="data" class="table table-bordered table-hover table-striped  shadow-4 ">  
+            </table>
+        </div>
+        <div id="pageLinks" style="display: none;"> 
+        </div>
+    </div>
+    <script src="js/scripts.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script> 
+</body  >
+</html>    
